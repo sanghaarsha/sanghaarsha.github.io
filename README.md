@@ -1,4 +1,5 @@
-### Hi there 👋, I'm Sangharsha.
+### Hi there 👋
+### I'm Sangharsha.
 
 - :computer: I love Open Source.
 - 🔭 I’m currently working on some basic Web-Projects.
